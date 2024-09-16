@@ -31,3 +31,7 @@
 ## cat-dogs.tar
 
 Спрощена версія [датасету з Kaggle](https://www.microsoft.com/en-us/download/details.aspx?id=54765), що містить зображення котів та собак.
+
+## students.csv
+
+Дані про оцінки студентів, їх вік, стать, робота на парах та оцінка.
